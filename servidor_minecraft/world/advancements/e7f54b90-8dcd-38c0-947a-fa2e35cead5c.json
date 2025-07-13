@@ -757,8 +757,10 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-07-13 00:26:28 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-13 00:22:38 +0000",
+      "minecraft:mushroom_fields": "2025-07-13 00:56:38 +0000",
       "minecraft:forest": "2025-07-12 22:52:44 +0000",
       "minecraft:taiga": "2025-07-13 00:20:33 +0000",
+      "minecraft:deep_ocean": "2025-07-13 00:52:57 +0000",
       "minecraft:deep_cold_ocean": "2025-07-13 00:35:32 +0000",
       "minecraft:frozen_ocean": "2025-07-13 00:39:16 +0000",
       "minecraft:eroded_badlands": "2025-07-13 00:09:42 +0000",
