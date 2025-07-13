@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-13 00:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-07-12 22:53:38 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-12 22:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-13 00:27:58 +0000"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-13 00:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-12 22:49:13 +0000"
@@ -230,6 +248,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-07-12 23:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-07-13 00:27:23 +0000"
     },
     "done": true
   },
@@ -419,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-07-13 00:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-07-12 22:37:11 +0000"
@@ -440,6 +470,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-12 22:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-13 00:27:21 +0000"
     },
     "done": true
   },
@@ -719,25 +755,36 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-07-13 00:26:28 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-13 00:22:38 +0000",
+      "minecraft:forest": "2025-07-12 22:52:44 +0000",
+      "minecraft:taiga": "2025-07-13 00:20:33 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-13 00:35:32 +0000",
+      "minecraft:frozen_ocean": "2025-07-13 00:39:16 +0000",
+      "minecraft:eroded_badlands": "2025-07-13 00:09:42 +0000",
+      "minecraft:desert": "2025-07-12 22:31:04 +0000",
+      "minecraft:frozen_river": "2025-07-13 00:36:52 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-13 00:41:52 +0000",
+      "minecraft:ocean": "2025-07-13 00:47:41 +0000",
+      "minecraft:jungle": "2025-07-12 23:54:03 +0000",
+      "minecraft:birch_forest": "2025-07-13 00:14:31 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-13 00:20:20 +0000",
+      "minecraft:snowy_beach": "2025-07-13 00:38:14 +0000",
+      "minecraft:warm_ocean": "2025-07-13 00:03:04 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-13 00:49:24 +0000",
       "minecraft:badlands": "2025-07-12 22:34:48 +0000",
       "minecraft:beach": "2025-07-12 23:57:36 +0000",
       "minecraft:dark_forest": "2025-07-13 00:19:13 +0000",
-      "minecraft:forest": "2025-07-12 22:52:44 +0000",
-      "minecraft:taiga": "2025-07-13 00:20:33 +0000",
       "minecraft:sparse_jungle": "2025-07-12 22:33:35 +0000",
       "minecraft:river": "2025-07-12 22:31:38 +0000",
       "minecraft:lukewarm_ocean": "2025-07-13 00:12:39 +0000",
       "minecraft:stony_shore": "2025-07-12 22:59:28 +0000",
+      "minecraft:snowy_plains": "2025-07-13 00:37:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-13 00:14:52 +0000",
-      "minecraft:eroded_badlands": "2025-07-13 00:09:42 +0000",
-      "minecraft:desert": "2025-07-12 22:31:04 +0000",
-      "minecraft:jungle": "2025-07-12 23:54:03 +0000",
+      "minecraft:grove": "2025-07-13 00:34:20 +0000",
       "minecraft:meadow": "2025-07-13 00:19:09 +0000",
-      "minecraft:birch_forest": "2025-07-13 00:14:31 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-07-13 00:20:20 +0000",
       "minecraft:savanna": "2025-07-12 23:49:29 +0000",
-      "minecraft:plains": "2025-07-12 22:34:53 +0000",
-      "minecraft:warm_ocean": "2025-07-13 00:03:04 +0000"
+      "minecraft:plains": "2025-07-12 22:34:53 +0000"
     },
     "done": false
   },
@@ -845,7 +892,8 @@
       "rotten_flesh": "2025-07-12 23:20:30 +0000",
       "cooked_mutton": "2025-07-12 23:59:37 +0000",
       "cooked_beef": "2025-07-12 23:29:46 +0000",
-      "melon_slice": "2025-07-12 22:51:49 +0000"
+      "melon_slice": "2025-07-12 22:51:49 +0000",
+      "golden_carrot": "2025-07-13 00:28:04 +0000"
     },
     "done": false
   },
@@ -906,6 +954,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-12 22:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-13 00:27:21 +0000"
     },
     "done": true
   },
