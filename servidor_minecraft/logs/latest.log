@@ -47,3 +47,4 @@
 [02:37:52] [Server thread/INFO]: Villager cpj['Fisherman'/129254, l='ServerLevel[world]', x=-12776.67, y=62.06, z=-11067.88] died, message: 'Fisherman tried to swim in lava'
 [02:37:53] [Server thread/INFO]: Villager cpj['Fisherman'/129253, l='ServerLevel[world]', x=-12776.02, y=61.95, z=-11067.72] died, message: 'Fisherman tried to swim in lava'
 [02:37:54] [Server thread/INFO]: Villager cpj['Fisherman'/129202, l='ServerLevel[world]', x=-12775.77, y=61.99, z=-11067.01] died, message: 'Fisherman tried to swim in lava'
+[03:12:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12752, y=64, z=-11090} jh{x=-12751, y=63, z=-11090}
