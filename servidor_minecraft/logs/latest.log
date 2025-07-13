@@ -44,3 +44,6 @@
 [01:59:07] [Server thread/INFO]: Mstick_ left the game
 [01:59:12] [Server thread/INFO]: Mstick_[/127.47.97.159:41531] logged in with entity id 129176 at (-12782.668721756327, 62.9375, -11065.438763466269)
 [01:59:12] [Server thread/INFO]: Mstick_ joined the game
+[02:37:52] [Server thread/INFO]: Villager cpj['Fisherman'/129254, l='ServerLevel[world]', x=-12776.67, y=62.06, z=-11067.88] died, message: 'Fisherman tried to swim in lava'
+[02:37:53] [Server thread/INFO]: Villager cpj['Fisherman'/129253, l='ServerLevel[world]', x=-12776.02, y=61.95, z=-11067.72] died, message: 'Fisherman tried to swim in lava'
+[02:37:54] [Server thread/INFO]: Villager cpj['Fisherman'/129202, l='ServerLevel[world]', x=-12775.77, y=61.99, z=-11067.01] died, message: 'Fisherman tried to swim in lava'
