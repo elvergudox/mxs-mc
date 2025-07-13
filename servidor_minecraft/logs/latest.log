@@ -1,43 +1,10 @@
-[22:29:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:29:42] [ServerMain/INFO]: Loaded 1337 recipes
-[22:29:42] [ServerMain/INFO]: Loaded 1448 advancements
-[22:29:42] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[22:29:42] [Server thread/INFO]: Loading properties
-[22:29:42] [Server thread/INFO]: Default game type: SURVIVAL
-[22:29:42] [Server thread/INFO]: Generating keypair
-[22:29:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:29:43] [Server thread/INFO]: Using epoll channel type
-[22:29:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:29:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:29:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:29:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:29:43] [Server thread/INFO]: Preparing level "world"
-[22:29:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:29:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:29:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:29:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:29:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:29:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:29:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:29:46] [Server thread/INFO]: Time elapsed: 2727 ms
-[22:29:46] [Server thread/INFO]: Done (3.028s)! For help, type "help"
-[22:30:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:31:03] [Server thread/INFO]: horadelfarmeo[/127.151.185.38:46779] logged in with entity id 10 at (-167.5, 69.0, -88.5)
-[22:31:03] [Server thread/INFO]: horadelfarmeo joined the game
-[22:33:23] [Server thread/INFO]: Mstick_[/127.47.97.159:54955] logged in with entity id 973 at (-153.5, 72.0, -70.5)
-[22:33:23] [Server thread/INFO]: Mstick_ joined the game
-[22:37:31] [Server thread/INFO]: Mstick_ has made the advancement [Stone Age]
-[22:37:50] [Server thread/INFO]: Mstick_ has made the advancement [Getting an Upgrade]
-[22:39:36] [Server thread/INFO]: horadelfarmeo has made the advancement [Stone Age]
-[22:42:46] [Server thread/INFO]: Mstick_ has made the advancement [Monster Hunter]
-[22:45:57] [Server thread/INFO]: horadelfarmeo has made the advancement [Getting an Upgrade]
-[22:51:23] [Server thread/INFO]: Mstick_ has made the advancement [Acquire Hardware]
-[22:52:52] [Server thread/INFO]: Mstick_ has made the advancement [Isn't It Iron Pick]
-[22:58:23] [Server thread/INFO]: horadelfarmeo has made the advancement [Monster Hunter]
-[23:03:27] [Server thread/INFO]: Mstick_ has made the advancement [Suit Up]
-[23:05:05] [Server thread/INFO]: Mstick_ has made the advancement [Not Today, Thank You]
-[23:09:12] [Server thread/INFO]: Seed: [-5035279312966474646]
-[23:33:30] [Server thread/INFO]: Mstick_ has made the advancement [Diamonds!]
-[23:58:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2256, y=70, z=-422} jh{x=-2257, y=68, z=-422}
-[23:58:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2256, y=70, z=-422} jh{x=-2257, y=68, z=-422}
-[23:58:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2253, y=70, z=-421} jh{x=-2254, y=68, z=-421}
+[00:02:17] [Server thread/INFO]: horadelfarmeo has made the advancement [Sweet Dreams]
+[00:02:23] [Server thread/INFO]: Mstick_ has made the advancement [Sweet Dreams]
+[00:04:22] [Server thread/INFO]: Mstick_ lost connection: Disconnected
+[00:04:22] [Server thread/INFO]: Mstick_ left the game
+[00:04:29] [Server thread/INFO]: Mstick_[/127.47.97.159:34385] logged in with entity id 49255 at (-7153.995679492548, 80.0, -1172.9359812450373)
+[00:04:29] [Server thread/INFO]: Mstick_ joined the game
+[00:04:59] [Server thread/INFO]: Mstick_ has made the advancement [Hot Stuff]
+[00:10:06] [Server thread/INFO]: Mstick_ has made the advancement [Ice Bucket Challenge]
+[00:18:31] [Server thread/INFO]: Mstick_ has made the advancement [We Need to Go Deeper]
+[00:18:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2993ms or 59 ticks behind
